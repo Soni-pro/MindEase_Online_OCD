@@ -1,0 +1,11 @@
+/* General styles */
+body {
+    font-family: Arial, sans-serif;
+}
+
+/* Responsive styles */
+@media screen and (max-width: 600px) {
+    body {
+        font-size: 18px;
+    }
+}
